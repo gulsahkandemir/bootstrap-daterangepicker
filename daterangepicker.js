@@ -7,7 +7,7 @@
 * @website: http://www.improvely.com/
 */
 !function ($) {
-
+    console.log("Test daterangepicker");
     var DateRangePicker = function (element, options, cb) {
         var hasOptions = typeof options == 'object';
         var localeObject;
